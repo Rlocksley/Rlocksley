@@ -4,10 +4,10 @@
 -  especially 
 1.) Machine Learning
 2.) Mathematics
-2.) Android
+3.) Android
 4.) Physics Simulations
-3.) Games
-4.) Graphics
+5.) Games
+6.) Graphics
 
 - 🌱 I’m currently learning Vulkan to reach a Level ;-)
 - 💞️ I’m looking to collaborate on Vulkan Projects.
