@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning Vulkan to reach a Level ;-)
 - 💞️ I’m looking to collaborate on Vulkan Projects.
-- 📫 How to reach me: write me on Github
+- 📫 How to reach me: robrydholm@gmail.com
 
 <!---
 Rlocksley/Rlocksley is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
