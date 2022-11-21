@@ -1,15 +1,6 @@
 - 👋 Hi, I’m Robin Rydholm
-- 
-- 👀 I’m interested in Vulkan for everything!!!
--  especially 
-1.) Machine Learning
-2.) Mathematics
-3.) Android
-4.) Physics Simulations
-5.) Games
-6.) Graphics
-
-- 🌱 I’m currently learning Vulkan to reach a Level ;-)
+- 👀 I’m a Programmer and Mathematician,
+having the time of my life with the Vulkan API :-)
 - 💞️ I’m looking to collaborate on Vulkan Projects.
 - 📫 How to reach me: robrydholm@gmail.com
 
