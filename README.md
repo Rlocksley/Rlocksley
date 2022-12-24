@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Robin Rydholm
 - 👀 I’m a Programmer and Mathematician,
-grinding C and C++ like I grinded Diablo2 when I was young.
+grinding C and C++ like Diablo2 when I was young.
 - 💞️ I’m looking to collaborate on Vulkan Projects.
 - 📫 How to reach me: robrydholm@gmail.com
 
