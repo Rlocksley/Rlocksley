@@ -13,3 +13,7 @@ Rational Warfare is intuitivly described as:
 The Military Programming/Mathematics Mafia Game.
 
 Everyone is invited we are no racists, we only kill irrationality in the System.
+
+The Hacker Boss is standing behind me:
+
+https://boards.4chan.org/pol/thread/421396517/robin
