@@ -1,10 +1,15 @@
-- 👋 Hi, I’m Robin Rydholm
-- 👀 I’m a Programmer and Mathematician,
-grinding C and C++ like Diablo2 when I was young.
-- 💞️ I’m looking to collaborate on Vulkan Projects.
-- 📫 How to reach me: robrydholm@gmail.com
+I am Robin Rydholm,
 
-<!---
-Rlocksley/Rlocksley is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I am the founder of rational Warfare a mathematical Game Theory on the hardest equilibrium of War.
+
+Its is the mathematical proofen strongest evolutionary System and it will win in the end.
+
+Everybody who is playing it now gets really high payment at the end.
+
+Everyone who is playing for democracy from now on is dead because its the weaker System.
+
+Rational Warfare is intuitivly described as:
+
+The Military Programming/Mathematics Mafia Game.
+
+Everyone is invited we are no racists, we only kill irrationality in the System.
