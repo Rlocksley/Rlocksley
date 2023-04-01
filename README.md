@@ -16,4 +16,4 @@ Everyone is invited we are no racists, we only kill irrationality in the System.
 
 The Hacker Boss is standing behind me:
 
-https://boards.4chan.org/pol/thread/421396517/robin
+https://www.tiktok.com/@robinrydholm/video/7216952229041868058?lang=en
