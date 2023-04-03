@@ -14,6 +14,4 @@ The Military Programming/Mathematics Mafia Game.
 
 Everyone is invited we are no racists, we only kill irrationality in the System.
 
-The Hacker Boss is standing behind me:
-
-https://www.tiktok.com/@robinrydholm/video/7216952229041868058?lang=en
+https://medium.com/@robrydholm/rational-warfare-e245ffc28728
